@@ -8,14 +8,11 @@ This project compares the performance of a **Binary Search Tree (BST)** and an *
 
 ## Repository Structure
 
-ClassicHit.csv 
-# Dataset of music metadata main.py 
-
-# Script implementing BST, AVL, performance tests, and report generation desempenho_arvores.png 
-
-# Performance comparison charts musicas_por_ano.png # Chart of songs released every 3 years performance_report.txt 
-
-# Text summary of dataset statistics Relatório Arvores.pdf 
+- ClassicHit.csv 
+- Dataset of music metadata main.py 
+- Script implementing BST, AVL, performance tests, and report generation desempenho_arvores.png 
+- Performance comparison charts musicas_por_ano.png # Chart of songs released every 3 years performance_report.txt 
+- Text summary of dataset statistics Relatório Arvores.pdf 
 
 
 
